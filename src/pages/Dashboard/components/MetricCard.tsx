@@ -56,7 +56,7 @@ const MetricCard = ({
           <p className="text-xs text-gray-500">{description}</p>
         </div>
 <hr/>
-        <button className="flex items-center text-xs text-gray-500 hover:text-gray-700 transition-colors justify-between px-3 py-2 w-full bg-[#B4C0C20F]">
+        <button className="flex items-center text-xs text-gray-500 hover:text-gray-700 transition-colors justify-between px-3 py-2 w-full bg-[#B4C0C20F] text-semibold">
           <div>{actionText}</div>
           <ArrowUpRight className="h-4 w-4 ml-1" />
         </button>
