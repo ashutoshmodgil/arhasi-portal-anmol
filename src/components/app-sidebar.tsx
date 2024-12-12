@@ -266,7 +266,7 @@ export function AppSidebar() {
               </SidebarMenu>
             </SidebarGroupContent>
           </SidebarGroup>
-          <SidebarGroup>
+          {/* <SidebarGroup>
             <SidebarGroupLabel className='text-[#7F8A8C]'>
               Product
             </SidebarGroupLabel>
@@ -291,7 +291,7 @@ export function AppSidebar() {
                 ))}
               </SidebarMenu>
             </SidebarGroupContent>
-          </SidebarGroup> 
+          </SidebarGroup>  */}
         </SidebarContent>
         <SidebarFooter className='px-6 mb-10'>
           <SidebarGroup>
